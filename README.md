@@ -1105,3 +1105,4 @@ github user content :
 
       "string"
       }
+[License MIT](https://github.com/AriesTriputranto99/Generatif-AI-draft?tab=MIT-1-ov-file)
